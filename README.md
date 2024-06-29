@@ -16,3 +16,20 @@ The MultiLangMemeNet study utilized datasets spanning five diverse languages. Be
 | Chinese | [MET-Meme Dataset](https://www.kaggle.com/datasets/liaolianfoka/met-meme/data) |
 | Hindi | [CM-OFF-MEME Dataset](https://github.com/Gitanjali1801/CM_MEMES) |
 | Tamil | [Tamil Memes Dataset](https://zenodo.org/records/4765573) |
+
+# ✔️ Proposed Model Performance
+
+The table below shows the performance of MultiLangMemeNet in both early and late fusion approaches across five languages:
+
+| Language | Model Name | Fusion Method | Accuracy | Precision | Recall | F1-score |
+|----------|------------|---------------|----------|-----------|--------|----------|
+| Bangla | MultiLangMemeNet | Early | 66.02 | 63.09 | 66.02 | 62.71 |
+| ^ | ^ | Late | 65.11 | 66.37 | 65.11 | 65.52 |
+| Hindi | MultiLangMemeNet | Early | 73.28 | 72.87 | 73.28 | 70.97 |
+| ^ | ^ | Late | 69.93 | 68.48 | 69.93 | 68.67 |
+| Tamil | MultiLangMemeNet | Early | 47.0 | 49.0 | 47.0 | 47.0 |
+| ^ | ^ | Late | 59.0 | 35.0 | 59.0 | 44.0 |
+| English | MultiLangMemeNet | Early | 61.0 | 57.0 | 63.0 | 56.0 |
+| ^ | ^ | Late | 59.0 | 48.0 | 57.0 | 46.0 |
+| Chinese | MultiLangMemeNet | Early | 61.0 | 70.0 | 61.0 | 65.2 |
+| ^ | ^ | Late | 60.0 | 75.0 | 59.0 | 66.0 |
