@@ -17,6 +17,18 @@ The MultiLangMemeNet study utilized datasets spanning five diverse languages. Be
 | Hindi | [CM-OFF-MEME Dataset](https://github.com/Gitanjali1801/CM_MEMES) |
 | Tamil | [Tamil Memes Dataset](https://zenodo.org/records/4765573) |
 
+# ⚛️ MultiLangMemeNet Architecture and Algorithm
+
+### MultiLangMemeNet Architecture
+![MultiLangMemeNet Architecture](https://github.com/shakib-sadat/MultiLangMemeNet/assets/62327880/8ed70766-7328-473c-8e75-8b7b4aafa28a)
+
+This figure illustrates the architecture of the MultiLangMemeNet model, showing how visual and textual inputs are processed and combined to produce the final classification.
+
+### MultiLangMemeNet Algorithm Pseudo Code
+![MultiLangMemeNet Algorithm Pseudo Code](https://github.com/shakib-sadat/MultiLangMemeNet/assets/62327880/e64feca5-4091-4073-bd07-381650e106b4)
+
+This figure presents the pseudo code for the MultiLangMemeNet algorithm, detailing the steps involved in processing multiple language meme datasets and producing sentiment annotations.
+
 # ✔️ Proposed Model Performance
 
 The table below shows the performance of MultiLangMemeNet in both early and late fusion approaches across five languages:
