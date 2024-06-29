@@ -45,3 +45,23 @@ The table below shows the performance of MultiLangMemeNet in both early and late
 | ^ | ^ | Late | 59.0 | 48.0 | 57.0 | 46.0 |
 | Chinese | MultiLangMemeNet | Early | 61.0 | 70.0 | 61.0 | 65.2 |
 | ^ | ^ | Late | 60.0 | 75.0 | 59.0 | 66.0 |
+
+## Contributors
+
+For any questions, collaboration opportunities, or further inquiries, please feel free to reach out:
+
+- Shakib Sadat Shanto
+
+  Email: shakibsss080@gmail.com
+
+- Zishan Ahmed  
+
+  Email: zishanahmed599@gmail.com
+
+- Ahmed Shakib Reza  
+
+  Email: shakibreza003@gmail.com
+
+- Md. Kishor Morol  
+
+  Email: kishoremorol@gmail.com
