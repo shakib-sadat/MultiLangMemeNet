@@ -46,7 +46,7 @@ The table below shows the performance of MultiLangMemeNet in both early and late
 | Chinese | MultiLangMemeNet | Early | 61.0 | 70.0 | 61.0 | 65.2 |
 | ^ | ^ | Late | 60.0 | 75.0 | 59.0 | 66.0 |
 
-## Contributors
+# Contributors
 
 For any questions, collaboration opportunities, or further inquiries, please feel free to reach out:
 
